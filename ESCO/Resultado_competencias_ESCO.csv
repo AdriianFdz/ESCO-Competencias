@@ -1,0 +1,462 @@
+ID;Competencia;Tipo de competencia
+2512.1;automatizar tareas en la nube;Esencial
+2512.1;diseñar redes en la nube;Esencial
+2512.1;diseñar bases de datos en la nube;Esencial
+2512.1;responder a incidentes en la nube;Esencial
+2512.1;programación de sistemas TIC;Esencial
+2512.1;depurar software;Esencial
+2512.1;analizar requisitos empresariales;Esencial
+2512.1;herramientas de desarrollo de bases de datos;Esencial
+2512.1;realizar una refactorización en la nube;Esencial
+2512.1;aplicar la seguridad y el cumplimiento en la nube;Esencial
+2512.1;modelo SaaS;Esencial
+2512.1;proporcionar documentación técnica;Esencial
+2512.1;integración de sistemas de TIC;Esencial
+2512.1;desarrollar con servicios en la nube;Esencial
+2512.1;facilitar recursos en la nube;Esencial
+2512.1;resolver problemas de sistemas TIC;Esencial
+2512.1;armonizar el software con la arquitectura del sistema;Esencial
+2512.1;ciclo de vida del desarrollo de sistemas;Esencial
+2512.1;ciberseguridad;Esencial
+2512.1;estructurar la complejidad de la organización;Esencial
+2512.1;programación informática;Esencial
+2512.1;diseñar una arquitectura de nube;Esencial
+2512.1;tecnologías en la nube;Esencial
+2512.1;interpretar textos técnicos;Esencial
+2512.1;seguridad y cumplimiento en la nube;Esencial
+2512.1;planificar la migración a la nube;Esencial
+2512.1;gestionar los datos y el almacenamiento en la nube;Esencial
+2512.1;gestionar claves para la protección de datos;Esencial
+2512.1;teoría de sistemas;Esencial
+2512.1;sistemas operativos;Esencial
+2512.1;seguimiento y notificación en la nube;Esencial
+2512.1;desarrollar un prototipo de software;Esencial
+2512.1;analizar especificaciones de software;Esencial
+2512.1;normas de seguridad de las TIC;Opcional
+2512.1;aplicar teoría de sistemas de TIC;Opcional
+2512.1;Java (programación informática);Opcional
+2512.1;diseñar un modelo de interacción;Opcional
+2512.1;realizar un análisis de datos;Opcional
+2512.1;utilizar lenguajes de consulta;Opcional
+2512.1;aplicar procedimientos de gestión de riesgos;Opcional
+2512.1;ética;Opcional
+2512.1;Ruby (programación informática);Opcional
+2512.1;Python (programación informática);Opcional
+2512.2;gestionar la obsolescencia de las TIC;Esencial
+2512.2;requisitos de usuario de sistemas de TIC;Esencial
+2512.2;diseñar un sistema de información;Esencial
+2512.2;definir la arquitectura del software;Esencial
+2512.2;crear diseño de software;Esencial
+2512.2;analizar procesos empresariales;Esencial
+2512.2;crear modelos de datos;Esencial
+2512.2;técnicas de requisitos empresariales;Esencial
+2512.2;ejecutar estudio de viabilidad;Esencial
+2512.2;elaborar documentación de conformidad con los requisitos legales;Esencial
+2512.2;interactuar con usuarios para reunir requisitos;Esencial
+2512.2;traducir requisitos en un diseño visual;Esencial
+2512.2;metodologías de diseño de software;Esencial
+2512.2;requisitos legales de productos de TIC;Esencial
+2512.2;modelos de datos;Esencial
+2512.2;identificar las necesidades de los usuarios de las TIC;Esencial
+2512.2;definir requisitos técnicos;Esencial
+2512.2;desarrollar un prototipo de software;Esencial
+2512.2;modelos de arquitectura de software;Esencial
+2512.2;Java (programación informática);Opcional
+2512.2;Visual Studio .NET;Opcional
+2512.2;dirigir proyecto de TIC;Opcional
+2512.2;PHP;Opcional
+2512.2;desarrollo iterativo;Opcional
+2512.2;CoffeeScript;Opcional
+2512.2;Erlang;Opcional
+2512.2;C++;Opcional
+2512.2;TypeScript;Opcional
+2512.2;modelo híbrido;Opcional
+2512.2;Swift (programación informática);Opcional
+2512.2;modelo de desarrollo evolutivo mediante prototipos;Opcional
+2512.2;JavaScript;Opcional
+2512.2;N1QL;Opcional
+2512.2;modelo de desarrollo incremental;Opcional
+2512.2;OpenEdge Advanced Business Language;Opcional
+2512.2;MATLAB;Opcional
+2512.2;Smalltalk (programación informática);Opcional
+2512.2;Groovy;Opcional
+2512.2;modelo de desarrollo en cascada;Opcional
+2512.2;APL;Opcional
+2512.2;crear prototipos de soluciones de experiencia de usuario;Opcional
+2512.2;XQuery;Opcional
+2512.2;metodología ágil de desarrollo de software;Opcional
+2512.2;DevOps;Opcional
+2512.2;modelo SaaS;Opcional
+2512.2;lenguaje de consulta del sistema de descripción de recursos;Opcional
+2512.2;analizar sistema TIC;Opcional
+2512.2;lenguaje de programación SAS (SAS language);Opcional
+2512.2;Pascal (programación informática);Opcional
+2512.2;Prolog (programación informática);Opcional
+2512.2;programación informática;Opcional
+2512.2;controlar el rendimiento de un sistema;Opcional
+2512.2;Scratch (programación informática);Opcional
+2512.2;garantizar el cumplimiento de los requisitos legales;Opcional
+2512.2;técnicas de gestión de problemas de las TIC;Opcional
+2512.2;proporcionar asesoramiento de TIC;Opcional
+2512.2;LDAP;Opcional
+2512.2;AJAX;Opcional
+2512.2;lenguajes de consulta;Opcional
+2512.2;diseño orientado a objetos;Opcional
+2512.2;modelización orientada a los servicios;Opcional
+2512.2;gestión de proyectos de TIC;Opcional
+2512.2;método de gestión basada en procesos;Opcional
+2512.2;Haskell;Opcional
+2512.2;Lisp;Opcional
+2512.2;Perl;Opcional
+2512.2;SPARQL;Opcional
+2512.2;ML (programación informática);Opcional
+2512.2;identificar puntos débiles en el sistema de TIC;Opcional
+2512.2;modelo de externalización;Opcional
+2512.2;Common Lisp;Opcional
+2512.2;R;Opcional
+2512.2;MDX;Opcional
+2512.2;C#;Opcional
+2512.2;Objective-C;Opcional
+2512.2;gestión de proyectos según la metodología Lean;Opcional
+2512.2;SAP R3;Opcional
+2512.2;niveles de pruebas del software;Opcional
+2512.2;modelo de fuente abierta;Opcional
+2512.2;metodologías de gestión de proyectos de TIC;Opcional
+2512.2;modelo de desarrollo rápido de aplicaciones;Opcional
+2512.2;Assembly (programación informática);Opcional
+2512.2;VBScript;Opcional
+2512.2;Scala;Opcional
+2512.2;lenguaje unificado de modelado;Opcional
+2512.2;garantizar el cumplimiento de la normativa empresarial;Opcional
+2512.2;LINQ;Opcional
+2512.2;COBOL;Opcional
+2512.2;realizar pruebas de sistema;Opcional
+2512.2;crear especificaciones de proyectos;Opcional
+2512.2;modelo de desarrollo en espiral;Opcional
+2512.2;resolver problemas de sistemas TIC;Opcional
+2512.2;Python (programación informática);Opcional
+2512.2;ASP.NET;Opcional
+2512.2;gestión de proyectos basada en metodologías ágiles;Opcional
+2512.2;Ruby (programación informática);Opcional
+2512.2;ABAP;Opcional
+2512.2;utilizar una interfaz para aplicaciones específicas;Opcional
+2512.3;analizar requisitos empresariales;Esencial
+2512.3;ciclo de vida del desarrollo de sistemas;Esencial
+2512.3;ofrecer un informe de análisis coste-beneficio;Esencial
+2512.3;analizar especificaciones de software;Esencial
+2512.3;definir requisitos técnicos;Esencial
+2512.3;crear diseño de software;Esencial
+2512.3;diseñar procesos;Esencial
+2512.3;lenguaje unificado de modelado;Esencial
+2512.3;proporcionar documentación técnica;Esencial
+2512.3;desarrollar relaciones comerciales;Esencial
+2512.3;recopilar opiniones de clientes sobre aplicaciones;Esencial
+2512.3;herramientas para la gestión de la configuración del software;Esencial
+2512.3;diseño orientado a objetos;Esencial
+2512.3;utilizar una interfaz para aplicaciones específicas;Esencial
+2512.3;armonizar el software con la arquitectura del sistema;Esencial
+2512.3;definir la arquitectura del software;Esencial
+2512.3;crear diagrama de flujo;Esencial
+2512.3;elaboración de modelos de proceso empresarial;Esencial
+2512.3;supervisar el desarrollo del software;Esencial
+2512.3;Objective-C;Opcional
+2512.3;gestión de proyectos basada en metodologías ágiles;Opcional
+2512.3;MATLAB;Opcional
+2512.3;Lisp;Opcional
+2512.3;AJAX;Opcional
+2512.3;Java (programación informática);Opcional
+2512.3;realizar un análisis de riesgo;Opcional
+2512.3;detectar y corregir errores de las tecnologías de la información y de las comunicaciones;Opcional
+2512.3;Common Lisp;Opcional
+2512.3;Smalltalk (programación informática);Opcional
+2512.3;algoritmización de tareas;Opcional
+2512.3;Microsoft Visual C++;Opcional
+2512.3;lenguaje de programación SAS (SAS language);Opcional
+2512.3;APL;Opcional
+2512.3;utilizar lenguajes de consulta;Opcional
+2512.3;Perl;Opcional
+2512.3;teoría de sistemas;Opcional
+2512.3;PHP;Opcional
+2512.3;utilizar lenguajes de marcado;Opcional
+2512.3;Swift (programación informática);Opcional
+2512.3;Jenkins (herramientas para la gestión de la configuración del software);Opcional
+2512.3;Salt (herramientas para la gestión de la configuración del software);Opcional
+2512.3;gestión de proyectos según la metodología Lean;Opcional
+2512.3;C#;Opcional
+2512.3;Ruby (programación informática);Opcional
+2512.3;Haskell;Opcional
+2512.3;CoffeeScript;Opcional
+2512.3;R;Opcional
+2512.3;Scratch (programación informática);Opcional
+2512.3;Python (programación informática);Opcional
+2512.3;Apache Maven;Opcional
+2512.3;C++;Opcional
+2512.3;Puppet (herramientas para la gestión de la configuración del software);Opcional
+2512.3;Scala;Opcional
+2512.3;Visual Studio .NET;Opcional
+2512.3;ML (programación informática);Opcional
+2512.3;Prolog (programación informática);Opcional
+2512.3;utilizar herramientas de ingeniería de software asistida por ordenador;Opcional
+2512.3;Erlang;Opcional
+2512.3;ABAP;Opcional
+2512.3;Ansible;Opcional
+2512.3;metodologías de gestión de proyectos de TIC;Opcional
+2512.3;SAP R3;Opcional
+2512.3;JBoss;Opcional
+2512.3;realizar planificación de recursos;Opcional
+2512.3;TypeScript;Opcional
+2512.3;diseñar esquema de base de datos;Opcional
+2512.3;VBScript;Opcional
+2512.3;STAF;Opcional
+2512.3;OpenEdge Advanced Business Language;Opcional
+2512.3;gestionar recursos humanos;Opcional
+2512.3;diseñar bases de datos en la nube;Opcional
+2512.3;programación informática;Opcional
+2512.3;programación web;Opcional
+2512.3;método de gestión basada en procesos;Opcional
+2512.3;ASP.NET;Opcional
+2512.3;proporcionar asesoramiento de TIC;Opcional
+2512.3;diseñar una arquitectura de nube;Opcional
+2512.3;Pascal (programación informática);Opcional
+2512.3;aplicar teoría de sistemas de TIC;Opcional
+2512.3;Assembly (programación informática);Opcional
+2512.3;aplicar técnicas de almacenamiento de datos;Opcional
+2512.3;legislación sobre seguridad de las TIC;Opcional
+2512.3;desarrollar un prototipo de software;Opcional
+2512.3;COBOL;Opcional
+2512.3;realizar una refactorización en la nube;Opcional
+2512.3;JavaScript;Opcional
+2512.3;Groovy;Opcional
+2512.4;utilizar una interfaz para aplicaciones específicas;Esencial
+2512.4;utilizar software de dibujo técnico;Esencial
+2512.4;procesos de ingeniería;Esencial
+2512.4;analizar especificaciones de software;Esencial
+2512.4;crear diagrama de flujo;Esencial
+2512.4;herramientas de depuración de las TIC;Esencial
+2512.4;gestión de proyectos;Esencial
+2512.4;proporcionar documentación técnica;Esencial
+2512.4;principios de ingeniería;Esencial
+2512.4;llevar a cabo investigaciones científicas;Esencial
+2512.4;identificar requisitos del cliente;Esencial
+2512.4;desarrollar un prototipo de software;Esencial
+2512.4;desarrollar métodos de migración automatizada;Esencial
+2512.4;utilizar bibliotecas de software;Esencial
+2512.4;utilizar patrones de diseño de software;Esencial
+2512.4;interpretar los requisitos técnicos;Esencial
+2512.4;depurar software;Esencial
+2512.4;programación informática;Esencial
+2512.4;software de entorno de desarrollo interactivo;Esencial
+2512.4;definir requisitos técnicos;Esencial
+2512.4;herramientas para la gestión de la configuración del software;Esencial
+2512.4;dibujos técnicos;Esencial
+2512.4;gestionar proyectos de ingeniería;Esencial
+2512.4;utilizar herramientas de ingeniería de software asistida por ordenador;Esencial
+2512.4;integrar componentes del sistema;Opcional
+2512.4;anomalías del software;Opcional
+2512.4;OpenEdge Advanced Business Language;Opcional
+2512.4;WordPress;Opcional
+2512.4;AJAX;Opcional
+2512.4;Java (programación informática);Opcional
+2512.4;Apache Maven;Opcional
+2512.4;lenguaje de programación SAS (SAS language);Opcional
+2512.4;Ajax Framework;Opcional
+2512.4;normas del consorcio World Wide Web;Opcional
+2512.4;Assembly (programación informática);Opcional
+2512.4;Common Lisp;Opcional
+2512.4;Internet de las Cosas;Opcional
+2512.4;Groovy;Opcional
+2512.4;marcos de software;Opcional
+2512.4;apertura de las cadenas de bloques;Opcional
+2512.4;utilizar programación automática;Opcional
+2512.4;Python (programación informática);Opcional
+2512.4;Scratch (programación informática);Opcional
+2512.4;C#;Opcional
+2512.4;contramedidas frente a ataques informáticos;Opcional
+2512.4;Puppet (herramientas para la gestión de la configuración del software);Opcional
+2512.4;APL;Opcional
+2512.4;Lisp;Opcional
+2512.4;JavaScript Framework;Opcional
+2512.4;Ansible;Opcional
+2512.4;Oracle Application Development Framework;Opcional
+2512.4;JavaScript;Opcional
+2512.4;recopilar opiniones de clientes sobre aplicaciones;Opcional
+2512.4;Haskell;Opcional
+2512.4;utilizar aprendizaje automático;Opcional
+2512.4;Scala;Opcional
+2512.4;utilizar programación lógica;Opcional
+2512.4;Swift (programación informática);Opcional
+2512.4;C++;Opcional
+2512.4;realizar una refactorización en la nube;Opcional
+2512.4;adaptarse a los cambios de los planes de desarrollo tecnológico;Opcional
+2512.4;MATLAB;Opcional
+2512.4;Pascal (programación informática);Opcional
+2512.4;Smalltalk (programación informática);Opcional
+2512.4;Xcode;Opcional
+2512.4;Drupal;Opcional
+2512.4;COBOL;Opcional
+2512.4;VBScript;Opcional
+2512.4;Apache Tomcat;Opcional
+2512.4;NoSQL;Opcional
+2512.4;Jenkins (herramientas para la gestión de la configuración del software);Opcional
+2512.4;Microsoft Visual C++;Opcional
+2512.4;ASP.NET;Opcional
+2512.4;ABAP;Opcional
+2512.4;migrar datos existentes;Opcional
+2512.4;Eclipse (software de entorno de desarrollo integrado);Opcional
+2512.4;KDevelop;Opcional
+2512.4;IBM WebSphere;Opcional
+2512.4;utilizar lenguajes de consulta;Opcional
+2512.4;Erlang;Opcional
+2512.4;STAF;Opcional
+2512.4;utilizar programación orientada a objetos;Opcional
+2512.4;R;Opcional
+2512.4;CoffeeScript;Opcional
+2512.4;contrato inteligente;Opcional
+2512.4;TypeScript;Opcional
+2512.4;plataformas para cadenas de bloques;Opcional
+2512.4;Perl;Opcional
+2512.4;SQL;Opcional
+2512.4;utilizar programación concurrente;Opcional
+2512.4;ML (programación informática);Opcional
+2512.4;desarrollar ideas creativas;Opcional
+2512.4;procedimientos de defensa estandarizados;Opcional
+2512.4;Objective-C;Opcional
+2512.4;Prolog (programación informática);Opcional
+2512.4;diseño orientado a objetos;Opcional
+2512.4;Salt (herramientas para la gestión de la configuración del software);Opcional
+2512.4;Visual Studio .NET;Opcional
+2512.4;SAP R3;Opcional
+2512.4;utilizar programación funcional;Opcional
+2512.4;diseñar una interfaz de usuario;Opcional
+2512.4;Ruby (programación informática);Opcional
+2512.4;PHP;Opcional
+2512.4;legislación sobre seguridad de las TIC;Opcional
+2512.4.1;depurar software;Esencial
+2512.4.1;utilizar bibliotecas de software;Esencial
+2512.4.1;proporcionar documentación técnica;Esencial
+2512.4.1;contrato inteligente;Esencial
+2512.4.1;utilizar herramientas de ingeniería de software asistida por ordenador;Esencial
+2512.4.1;programación informática;Esencial
+2512.4.1;mecanismos de consenso para cadenas de bloques;Esencial
+2512.4.1;interpretar los requisitos técnicos;Esencial
+2512.4.1;apertura de las cadenas de bloques;Esencial
+2512.4.1;principio de la tecnología de libro mayor distribuido;Esencial
+2512.4.1;bibliotecas de componentes de software;Esencial
+2512.4.1;herramientas de depuración de las TIC;Esencial
+2512.4.1;utilizar patrones de diseño de software;Esencial
+2512.4.1;plataformas para cadenas de bloques;Esencial
+2512.4.1;marcos para aplicaciones descentralizadas;Esencial
+2512.4.1;cifrado de las TIC;Opcional
+2512.4.1;TypeScript;Opcional
+2512.4.1;Angular;Opcional
+2512.4.1;Solidity;Opcional
+2512.4.1;Vyper;Opcional
+2512.4.1;modelo SaaS;Opcional
+2512.4.1;diseñar una interfaz de usuario;Opcional
+2512.4.1;JavaScript;Opcional
+2512.4.1;Scala;Opcional
+2512.4.1;aplicar diseño de interfaz de una web;Opcional
+2512.4.1;C++;Opcional
+2512.4.1;adaptarse a los cambios de los planes de desarrollo tecnológico;Opcional
+2512.4.1;utilizar lenguajes de marcado;Opcional
+2512.4.1;Java (programación informática);Opcional
+2512.4.1;tecnologías en la nube;Opcional
+2512.4.1;análisis de datos;Opcional
+2512.5;utilizar bibliotecas de software;Esencial
+2512.5;programación informática;Esencial
+2512.5;diseñar infografías;Esencial
+2512.5;diseñar una interfaz de usuario;Esencial
+2512.5;interpretar textos técnicos;Esencial
+2512.5;utilizar una interfaz para aplicaciones específicas;Esencial
+2512.5;analizar especificaciones de software;Esencial
+2512.5;normas del consorcio World Wide Web;Esencial
+2512.5;desarrollar un prototipo de software;Esencial
+2512.5;software de edición de gráficos;Esencial
+2512.5;lenguajes de la hoja de estilo;Esencial
+2512.5;programación web;Esencial
+2512.5;software de entorno de desarrollo interactivo;Esencial
+2512.5;patrones de diseño de la interfaz de usuario del software;Esencial
+2512.5;elaborar bocetos;Esencial
+2512.5;utilizar metodologías para un diseño centrado en el usuario;Esencial
+2512.5;utilizar patrones de diseño de software;Esencial
+2512.5;ASP.NET;Opcional
+2512.5;WordPress;Opcional
+2512.5;PHP;Opcional
+2512.5;R;Opcional
+2512.5;Xcode;Opcional
+2512.5;herramientas de depuración de las TIC;Opcional
+2512.5;Vagrant;Opcional
+2512.5;Ansible;Opcional
+2512.5;utilizar programación concurrente;Opcional
+2512.5;utilizar herramientas de ingeniería de software asistida por ordenador;Opcional
+2512.5;Swift (programación informática);Opcional
+2512.5;utilizar lenguajes de consulta;Opcional
+2512.5;Sass;Opcional
+2512.5;Ruby (programación informática);Opcional
+2512.5;MATLAB;Opcional
+2512.5;Python (programación informática);Opcional
+2512.5;Salt (herramientas para la gestión de la configuración del software);Opcional
+2512.5;Visual Studio .NET;Opcional
+2512.5;LESS;Opcional
+2512.5;Eclipse (software de entorno de desarrollo integrado);Opcional
+2512.5;proporcionar documentación técnica;Opcional
+2512.5;utilizar programación lógica;Opcional
+2512.5;Ajax Framework;Opcional
+2512.5;Lisp;Opcional
+2512.5;utilizar programación orientada a objetos;Opcional
+2512.5;interacción persona-ordenador;Opcional
+2512.5;SAP R3;Opcional
+2512.5;Pascal (programación informática);Opcional
+2512.5;Common Lisp;Opcional
+2512.5;OpenEdge Advanced Business Language;Opcional
+2512.5;Microsoft Visio;Opcional
+2512.5;Erlang;Opcional
+2512.5;depurar software;Opcional
+2512.5;Smalltalk (programación informática);Opcional
+2512.5;Perl;Opcional
+2512.5;Prolog (programación informática);Opcional
+2512.5;NoSQL;Opcional
+2512.5;STAF;Opcional
+2512.5;Puppet (herramientas para la gestión de la configuración del software);Opcional
+2512.5;Haskell;Opcional
+2512.5;C#;Opcional
+2512.5;utilizar programación automática;Opcional
+2512.5;VBScript;Opcional
+2512.5;herramientas para la gestión de la configuración del software;Opcional
+2512.5;C++;Opcional
+2512.5;Assembly (programación informática);Opcional
+2512.5;KDevelop;Opcional
+2512.5;Adobe Illustrator;Opcional
+2512.5;Java (programación informática);Opcional
+2512.5;utilizar lenguajes de marcado;Opcional
+2512.5;Apache Maven;Opcional
+2512.5;ML (programación informática);Opcional
+2512.5;Scala;Opcional
+2512.5;diseño de interacción de software;Opcional
+2512.5;Microsoft Visual C++;Opcional
+2512.5;Synfig;Opcional
+2512.5;Objective-C;Opcional
+2512.5;JSSS;Opcional
+2512.5;utilizar programación funcional;Opcional
+2512.5;realidad aumentada;Opcional
+2512.5;utilizar programación con scripts;Opcional
+2512.5;AJAX;Opcional
+2512.5;GIMP (software de edición de gráficos);Opcional
+2512.5;TypeScript;Opcional
+2512.5;diseñar un modelo de interacción;Opcional
+2512.5;Scratch (programación informática);Opcional
+2512.5;Adobe Photoshop;Opcional
+2512.5;CoffeeScript;Opcional
+2512.5;crear diagrama de flujo;Opcional
+2512.5;lenguaje de programación SAS (SAS language);Opcional
+2512.5;APL;Opcional
+2512.5;ABAP;Opcional
+2512.5;JavaScript;Opcional
+2512.5;COBOL;Opcional
+2512.5;Groovy;Opcional
+2512.5;CSS;Opcional
+2512.5;JavaScript Framework;Opcional
+2512.5;gestión de proyectos de TIC;Opcional
+2512.5;SketchBook Pro;Opcional
+2512.5;Drupal;Opcional
+2512.5;Jenkins (herramientas para la gestión de la configuración del software);Opcional
